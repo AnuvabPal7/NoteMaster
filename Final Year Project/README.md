@@ -24,7 +24,7 @@ A Random Forest model is used to analyze patient data and predict the presence o
 - High recall for tumor prediction (important for medical analysis)
 
 ## Project Report
-You can view the detailed report here:  
+Full project documentation covering methodology, dataset description, and detailed analysis is provided below  
 [View PDF](./CSE_NIT_PROJECT_REPORT_FINAL.pdf)
 
 ## About
