@@ -27,7 +27,7 @@ The project implements a basic full-stack CRUD system where users can add, view,
 
 ## ▶️ How to Run the Project  
 
-You can run this project using VS Code or any Python IDE.
+To run this project use VS Code or any Python IDE.
 
 ### 1. Install Flask  
 pip install flask
