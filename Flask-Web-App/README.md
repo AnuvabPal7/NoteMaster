@@ -59,4 +59,4 @@ The project demonstrates how a backend system interacts with a frontend interfac
 - Cloud deployment (Render / PythonAnywhere / Heroku alternative)  
 
 ## 📌 Note  
-This project was developed as part of a final year academic learning exercise to demonstrate practical understanding of web development using Flask.
+This project was developed as part of an academic learning exercise to demonstrate practical understanding of web development using Flask.
